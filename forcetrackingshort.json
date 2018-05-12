@@ -1,0 +1,21 @@
+{
+  "nodes": [
+    {"id": "staff1", "group": 1},
+    {"id": "staff2", "group": 1},
+    {"id": "staff3", "group": 1},
+    {"id": "patient1", "group": 2},
+    {"id": "visitor1", "group": 3}
+  ],
+  "links": [
+    {"source": "staff1", "target": "staff2", "value": 30.5},
+    {"source": "staff1", "target": "staff3", "value": 21},
+    {"source": "staff2", "target": "staff3", "value": 21},
+    {"source": "patient1", "target": "staff1", "value": 0},
+    {"source": "patient1", "target": "staff2", "value": 0},
+    {"source": "patient1", "target": "staff3", "value": 0},
+    {"source": "visitor1", "target": "staff1", "value": 20},
+    {"source": "visitor1", "target": "staff2", "value": 29},
+    {"source": "visitor1", "target": "staff3", "value": 29},
+    {"source": "visitor1", "target": "patient1", "value": 0}
+  ]
+}

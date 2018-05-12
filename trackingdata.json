@@ -1,0 +1,450 @@
+{"tracking": [{
+    "subject": "staff 2",
+    "compare": "staff 3",
+    "location": "staff room",
+    "avgdistance": 10,
+    "tickstart": 0,
+    "tickend": 4,
+    "duration": 4
+  }, {
+    "subject": "staff 1",
+    "compare": "staff 3",
+    "location": "staff room",
+    "avgdistance": 20,
+    "tickstart": 0,
+    "tickend": 4,
+    "duration": 4
+  }, {
+    "subject": "staff 1",
+    "compare": "staff 2",
+    "location": "staff room",
+    "avgdistance": 10,
+    "tickstart": 0,
+    "tickend": 15,
+    "duration": 15
+  }, {
+    "subject": "staff 2",
+    "compare": "staff 3",
+    "location": "hallway",
+    "avgdistance": 10,
+    "tickstart": 15,
+    "tickend": 30,
+    "duration": 15
+  }, {
+    "subject": "staff 3",
+    "compare": "vistor 1",
+    "location": "hallway",
+    "avgdistance": 11,
+    "tickstart": 4,
+    "tickend": 30,
+    "duration": 26
+  }, {
+    "subject": "staff 1",
+    "compare": "staff 3",
+    "location": "hallway",
+    "avgdistance": 19,
+    "tickstart": 25,
+    "tickend": 30,
+    "duration": 5
+  }, {
+    "subject": "staff 1",
+    "compare": "staff 2",
+    "location": "hallway",
+    "avgdistance": 9,
+    "tickstart": 25,
+    "tickend": 39,
+    "duration": 14
+  }, {
+    "subject": "staff 2",
+    "compare": "vistor 1",
+    "location": "hallway",
+    "avgdistance": 11,
+    "tickstart": 15,
+    "tickend": 39,
+    "duration": 24
+  }, {
+    "subject": "staff 1",
+    "compare": "vistor 1",
+    "location": "hallway",
+    "avgdistance": 10,
+    "tickstart": 25,
+    "tickend": 50,
+    "duration": 25
+  }, {
+    "subject": "staff 3",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 27,
+    "tickstart": 310,
+    "tickend": 567,
+    "duration": 257
+  }, {
+    "subject": "staff 2",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 16,
+    "tickstart": 310,
+    "tickend": 567,
+    "duration": 257
+  }, {
+    "subject": "staff 1",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 12,
+    "tickstart": 310,
+    "tickend": 567,
+    "duration": 257
+  }, {
+    "subject": "supply ",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 20,
+    "tickstart": 310,
+    "tickend": 567,
+    "duration": 257
+  }, {
+    "subject": "nursingStation ",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 10,
+    "tickstart": 310,
+    "tickend": 567,
+    "duration": 257
+  }, {
+    "subject": "patient 4",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 22,
+    "tickstart": 310,
+    "tickend": 567,
+    "duration": 257
+  }, {
+    "subject": "patient 3",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 29,
+    "tickstart": 310,
+    "tickend": 567,
+    "duration": 257
+  }, {
+    "subject": "patient 2",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 24,
+    "tickstart": 310,
+    "tickend": 567,
+    "duration": 257
+  }, {
+    "subject": "patient 1",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 15,
+    "tickstart": 310,
+    "tickend": 567,
+    "duration": 257
+  }, {
+    "subject": "staff 3",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 22,
+    "tickstart": 1086,
+    "tickend": 1215,
+    "duration": 129
+  }, {
+    "subject": "staff 2",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 26,
+    "tickstart": 1086,
+    "tickend": 1215,
+    "duration": 129
+  }, {
+    "subject": "staff 1",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 13,
+    "tickstart": 1086,
+    "tickend": 1215,
+    "duration": 129
+  }, {
+    "subject": "supply ",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 20,
+    "tickstart": 1086,
+    "tickend": 1215,
+    "duration": 129
+  }, {
+    "subject": "nursingStation ",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 10,
+    "tickstart": 1086,
+    "tickend": 1215,
+    "duration": 129
+  }, {
+    "subject": "patient 4",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 22,
+    "tickstart": 1086,
+    "tickend": 1215,
+    "duration": 129
+  }, {
+    "subject": "patient 3",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 29,
+    "tickstart": 1086,
+    "tickend": 1215,
+    "duration": 129
+  }, {
+    "subject": "patient 2",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 24,
+    "tickstart": 1086,
+    "tickend": 1215,
+    "duration": 129
+  }, {
+    "subject": "patient 1",
+    "compare": "vistor 1",
+    "location": "patient room",
+    "avgdistance": 15,
+    "tickstart": 1086,
+    "tickend": 1215,
+    "duration": 129
+  }, {
+    "subject": "supply ",
+    "compare": "staff 1",
+    "location": "patient room",
+    "avgdistance": 18,
+    "tickstart": 50,
+    "tickend": 1404,
+    "duration": 1354
+  }, {
+    "subject": "staff 1",
+    "compare": "staff 2",
+    "location": "patient room",
+    "avgdistance": 23,
+    "tickstart": 50,
+    "tickend": 1404,
+    "duration": 1354
+  }, {
+    "subject": "nursingStation ",
+    "compare": "staff 1",
+    "location": "patient room",
+    "avgdistance": 21,
+    "tickstart": 50,
+    "tickend": 1404,
+    "duration": 1354
+  }, {
+    "subject": "staff 1",
+    "compare": "staff 3",
+    "location": "patient room",
+    "avgdistance": 28,
+    "tickstart": 50,
+    "tickend": 1404,
+    "duration": 1354
+  }, {
+    "subject": "patient 4",
+    "compare": "staff 1",
+    "location": "patient room",
+    "avgdistance": 32,
+    "tickstart": 50,
+    "tickend": 1404,
+    "duration": 1354
+  }, {
+    "subject": "patient 3",
+    "compare": "staff 1",
+    "location": "patient room",
+    "avgdistance": 32,
+    "tickstart": 50,
+    "tickend": 1404,
+    "duration": 1354
+  }, {
+    "subject": "patient 2",
+    "compare": "staff 1",
+    "location": "patient room",
+    "avgdistance": 17,
+    "tickstart": 50,
+    "tickend": 1404,
+    "duration": 1354
+  }, {
+    "subject": "patient 1",
+    "compare": "staff 1",
+    "location": "patient room",
+    "avgdistance": 14,
+    "tickstart": 50,
+    "tickend": 1404,
+    "duration": 1354
+  }, {
+    "subject": "staff 1",
+    "compare": "vistor 1",
+    "location": "hallway",
+    "avgdistance": 7,
+    "tickstart": 1404,
+    "tickend": 1419,
+    "duration": 15
+  }, {
+    "subject": "staff 2",
+    "compare": "staff 3",
+    "location": "patient room",
+    "avgdistance": 19,
+    "tickstart": 39,
+    "tickend": 1536,
+    "duration": 1497
+  }, {
+    "subject": "supply ",
+    "compare": "staff 3",
+    "location": "patient room",
+    "avgdistance": 14,
+    "tickstart": 30,
+    "tickend": 1536,
+    "duration": 1506
+  }, {
+    "subject": "nursingStation ",
+    "compare": "staff 3",
+    "location": "patient room",
+    "avgdistance": 16,
+    "tickstart": 30,
+    "tickend": 1536,
+    "duration": 1506
+  }, {
+    "subject": "patient 4",
+    "compare": "staff 3",
+    "location": "patient room",
+    "avgdistance": 18,
+    "tickstart": 30,
+    "tickend": 1536,
+    "duration": 1506
+  }, {
+    "subject": "patient 3",
+    "compare": "staff 3",
+    "location": "patient room",
+    "avgdistance": 8,
+    "tickstart": 30,
+    "tickend": 1536,
+    "duration": 1506
+  }, {
+    "subject": "patient 2",
+    "compare": "staff 3",
+    "location": "patient room",
+    "avgdistance": 31,
+    "tickstart": 30,
+    "tickend": 1536,
+    "duration": 1506
+  }, {
+    "subject": "patient 1",
+    "compare": "staff 3",
+    "location": "patient room",
+    "avgdistance": 36,
+    "tickstart": 30,
+    "tickend": 1536,
+    "duration": 1506
+  }, {
+    "subject": "supply ",
+    "compare": "staff 2",
+    "location": "patient room",
+    "avgdistance": 14,
+    "tickstart": 39,
+    "tickend": 1537,
+    "duration": 1498
+  }, {
+    "subject": "nursingStation ",
+    "compare": "staff 2",
+    "location": "patient room",
+    "avgdistance": 18,
+    "tickstart": 39,
+    "tickend": 1537,
+    "duration": 1498
+  }, {
+    "subject": "patient 4",
+    "compare": "staff 2",
+    "location": "patient room",
+    "avgdistance": 25,
+    "tickstart": 39,
+    "tickend": 1537,
+    "duration": 1498
+  }, {
+    "subject": "patient 3",
+    "compare": "staff 2",
+    "location": "patient room",
+    "avgdistance": 16,
+    "tickstart": 39,
+    "tickend": 1537,
+    "duration": 1498
+  }, {
+    "subject": "patient 2",
+    "compare": "staff 2",
+    "location": "patient room",
+    "avgdistance": 23,
+    "tickstart": 39,
+    "tickend": 1537,
+    "duration": 1498
+  }, {
+    "subject": "patient 1",
+    "compare": "staff 2",
+    "location": "patient room",
+    "avgdistance": 31,
+    "tickstart": 39,
+    "tickend": 1537,
+    "duration": 1498
+  }, {
+    "subject": "staff 2",
+    "compare": "staff 3",
+    "location": "hallway",
+    "avgdistance": 1,
+    "tickstart": 1537,
+    "tickend": 1560,
+    "duration": 23
+  }, {
+    "subject": "staff 3",
+    "compare": "vistor 1",
+    "location": "hallway",
+    "avgdistance": 11,
+    "tickstart": 1536,
+    "tickend": 1560,
+    "duration": 24
+  }, {
+    "subject": "staff 2",
+    "compare": "vistor 1",
+    "location": "hallway",
+    "avgdistance": 11,
+    "tickstart": 1537,
+    "tickend": 1561,
+    "duration": 24
+  }, {
+    "subject": "staff 2",
+    "compare": "staff 3",
+    "location": "staff room",
+    "avgdistance": 11,
+    "tickstart": 1561,
+    "tickend": 1916,
+    "duration": 355
+  }, {
+    "subject": "staff 2",
+    "compare": "staff 3",
+    "location": "hallway",
+    "avgdistance": 10,
+    "tickstart": 1927,
+    "tickend": 1942,
+    "duration": 15
+  }, {
+    "subject": "staff 3",
+    "compare": "vistor 1",
+    "location": "hallway",
+    "avgdistance": 10,
+    "tickstart": 1916,
+    "tickend": 1942,
+    "duration": 26
+  }, {
+    "subject": "staff 2",
+    "compare": "vistor 1",
+    "location": "hallway",
+    "avgdistance": 10,
+    "tickstart": 1927,
+    "tickend": 1953,
+    "duration": 26
+  }]
+}

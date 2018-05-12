@@ -1,0 +1,43 @@
+{
+  "nodes": [
+    {"id": "staff1", "group": 1},
+    {"id": "staff2", "group": 1},
+    {"id": "staff3", "group": 1},
+    {"id": "patient1", "group": 2},
+    {"id": "patient2", "group": 2},
+    {"id": "patient3", "group": 2},
+    {"id": "patient4", "group": 2},
+    {"id": "visitor1", "group": 3}
+  ],
+  "links": [
+    {"source": "staff1", "target": "staff2", "value": 30.5},
+    {"source": "staff1", "target": "staff3", "value": 18},
+    {"source": "staff1", "target": "patient1", "value": 14},
+    {"source": "staff1", "target": "patient2", "value": 23},
+    {"source": "staff1", "target": "patient3", "value": 8},
+    {"source": "staff1", "target": "patient4", "value": 0},
+    {"source": "staff1", "target": "visitor1", "value": 9},
+    {"source": "staff2", "target": "staff3", "value": 20},
+    {"source": "staff2", "target": "patient1", "value": 19},
+    {"source": "staff2", "target": "patient2", "value": 17},
+    {"source": "staff2", "target": "patient3", "value": 14},
+    {"source": "staff2", "target": "patient4", "value": 25},
+    {"source": "staff2", "target": "visitor1", "value": 8},
+    {"source": "staff3", "target": "patient1", "value": 4},
+    {"source": "staff3", "target": "patient2", "value": 9},
+    {"source": "staff3", "target": "patient3", "value": 32},
+    {"source": "staff3", "target": "patient4", "value": 22},
+    {"source": "staff3", "target": "visitor1", "value": 7},
+    {"source": "patient1", "target": "patient2", "value": 0},
+    {"source": "patient1", "target": "patient3", "value": 0},
+    {"source": "patient1", "target": "patient4", "value": 0},
+    {"source": "patient1", "target": "visitor1", "value": 25},
+    {"source": "patient2", "target": "patient3", "value": 0},
+    {"source": "patient2", "target": "patient4", "value": 0},
+    {"source": "patient2", "target": "visitor1", "value": 16},
+    {"source": "patient3", "target": "patient4", "value": 0},
+    {"source": "patient3", "target": "visitor1", "value": 10},
+    {"source": "patient4", "target": "visitor1", "value": 28}
+
+  ]
+}
